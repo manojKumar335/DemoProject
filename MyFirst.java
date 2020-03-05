@@ -7,6 +7,8 @@ public class MyFirst{
                          //logics
                          System.out.println("hiii")
                          System.out.println("hello")
+                           System.out.println("hiii")
+
        }
  }
 
